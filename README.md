@@ -8,7 +8,7 @@
  22-Bit Visual Binary Cube Code
  
  💞️ I’m looking to collaborate on ...
- Generating the code for a decentralized scribe application.  Transcription.  "Caption.dapp" 
+ Generating the code for a decentralized scribe application.  Transcription.  "Caption.dApp" 
  
  📫 How to reach me ...
  CubeMinistries@gmail.com (+1 250 589-1196 )
